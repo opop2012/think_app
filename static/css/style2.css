@@ -1,0 +1,37 @@
+.n_common{
+    height:65px;
+    width:43px;
+    display:inline-block;
+    background-image:url('/static/images/s_no_2.jpg');
+    background-repeat:no-repeat;
+}
+.n_1{
+    background-position: 0px -68px;
+}
+.n_2{
+    background-position: 0px -134px;
+}
+.n_3{
+    background-position: 0px -200px;
+}
+.n_4{
+    background-position: 0px -270px;
+}
+.n_5{
+    background-position: 0px -339px;
+}
+.n_6{
+    background-position: 0px -408px;
+}
+.n_7{
+    background-position: 0px -477px;
+}
+.n_8{
+    background-position: 0px -546px;
+}
+.n_9{
+    background-position: 0px -614px;
+}
+.n_0{
+    background-position: 0px 0px;
+}
